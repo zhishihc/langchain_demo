@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>mall_parent</artifactId>
+        <groupId>org.example</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>service</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>service-goods</module>
+        <module>service-file</module>
+        <module>service-search</module>
+        <module>service-canal</module>
+        <module>service-content</module>
+        <module>service-user</module>
+        <module>service-order</module>
+        <module>service-seckill</module>
+        <module>service-pay</module>
+    </modules>
+    <dependencies>
+        <!--依赖db 和 common-->
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>common-db</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+</project>

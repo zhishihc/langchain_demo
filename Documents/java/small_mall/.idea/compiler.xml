@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka" />
+        <module name="web-search" />
+        <module name="service-pay-api" />
+        <module name="service-content-api" />
+        <module name="web-item" />
+        <module name="service-order" />
+        <module name="common-db" />
+        <module name="service-seckill-api" />
+        <module name="search" />
+        <module name="common" />
+        <module name="service-user" />
+        <module name="service-seckill" />
+        <module name="service-goods-api" />
+        <module name="service-canal" />
+        <module name="web-item-api" />
+        <module name="service-search-api" />
+        <module name="user-oauth" />
+        <module name="service-user-api" />
+        <module name="service-content" />
+        <module name="service-pay" />
+        <module name="gateway-web" />
+        <module name="service-order-api" />
+        <module name="service-goods" />
+        <module name="springboot_rabbitmq_delay" />
+        <module name="service-search" />
+        <module name="service-file" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="common-db" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="gateway-web" target="1.8" />
+      <module name="mall_parent" target="1.8" />
+      <module name="search" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service-api" target="1.8" />
+      <module name="service-canal" target="1.8" />
+      <module name="service-content" target="1.8" />
+      <module name="service-content-api" target="1.8" />
+      <module name="service-file" target="1.8" />
+      <module name="service-goods" target="1.8" />
+      <module name="service-goods-api" target="1.8" />
+      <module name="service-order" target="1.8" />
+      <module name="service-order-api" target="1.8" />
+      <module name="service-pay" target="1.8" />
+      <module name="service-pay-api" target="1.8" />
+      <module name="service-search" target="1.8" />
+      <module name="service-search-api" target="1.8" />
+      <module name="service-seckill" target="1.8" />
+      <module name="service-seckill-api" target="1.8" />
+      <module name="service-user" target="1.8" />
+      <module name="service-user-api" target="1.8" />
+      <module name="springboot_rabbitmq_delay" target="1.8" />
+      <module name="user-oauth" target="1.8" />
+      <module name="web" target="1.8" />
+      <module name="web-item" target="1.8" />
+      <module name="web-item-api" target="1.8" />
+      <module name="web-search" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="-parameters" />
+      <module name="common-db" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway-web" options="-parameters" />
+      <module name="search" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="service-api" options="-parameters" />
+      <module name="service-canal" options="-parameters" />
+      <module name="service-content" options="-parameters" />
+      <module name="service-content-api" options="-parameters" />
+      <module name="service-file" options="-parameters" />
+      <module name="service-goods" options="-parameters" />
+      <module name="service-goods-api" options="-parameters" />
+      <module name="service-order" options="-parameters" />
+      <module name="service-order-api" options="-parameters" />
+      <module name="service-pay" options="-parameters" />
+      <module name="service-pay-api" options="-parameters" />
+      <module name="service-search" options="-parameters" />
+      <module name="service-search-api" options="-parameters" />
+      <module name="service-seckill" options="-parameters" />
+      <module name="service-seckill-api" options="-parameters" />
+      <module name="service-user" options="-parameters" />
+      <module name="service-user-api" options="-parameters" />
+      <module name="springboot_rabbitmq_delay" options="-parameters" />
+      <module name="user-oauth" options="-parameters" />
+      <module name="web" options="-parameters" />
+      <module name="web-item" options="-parameters" />
+      <module name="web-item-api" options="-parameters" />
+      <module name="web-search" options="-parameters" />
+    </option>
+  </component>
+</project>

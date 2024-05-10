@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/common/common.iml" filepath="$PROJECT_DIR$/mall_parent/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/common-db/common-db.iml" filepath="$PROJECT_DIR$/mall_parent/common-db/common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/eureka/eureka.iml" filepath="$PROJECT_DIR$/mall_parent/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/gateway/gateway.iml" filepath="$PROJECT_DIR$/mall_parent/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/gateway/gateway-web/gateway-web.iml" filepath="$PROJECT_DIR$/mall_parent/gateway/gateway-web/gateway-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/mall_parent.iml" filepath="$PROJECT_DIR$/mall_parent/mall_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service.iml" filepath="$PROJECT_DIR$/mall_parent/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/service-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-canal/service-canal.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-canal/service-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-content/service-content.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-content/service-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/service-content-api/service-content-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/service-content-api/service-content-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-file/service-file.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-file/service-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-goods/service-goods.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-goods/service-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/service-goods-api/service-goods-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/service-goods-api/service-goods-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-order/service-order.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-order/service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/service-order-api/service-order-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/service-order-api/service-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-pay/service-pay.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-pay/service-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/service-pay-api/service-pay-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/service-pay-api/service-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-search/service-search.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-search/service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/service-search-api/service-search-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/service-search-api/service-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-seckill/service-seckill.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-seckill/service-seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/service-seckill-api/service-seckill-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/service-seckill-api/service-seckill-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service/service-user/service-user.iml" filepath="$PROJECT_DIR$/mall_parent/service/service-user/service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/service-user-api/service-user-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/service-user-api/service-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small_mall.iml" filepath="$PROJECT_DIR$/small_mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_rabbitmq_delay/springboot_rabbitmq_delay.iml" filepath="$PROJECT_DIR$/springboot_rabbitmq_delay/springboot_rabbitmq_delay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/user-oauth/user-oauth.iml" filepath="$PROJECT_DIR$/mall_parent/user-oauth/user-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/web/web.iml" filepath="$PROJECT_DIR$/mall_parent/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/web/web-item/web-item.iml" filepath="$PROJECT_DIR$/mall_parent/web/web-item/web-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/service-api/web-item-api/web-item-api.iml" filepath="$PROJECT_DIR$/mall_parent/service-api/web-item-api/web-item-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_parent/web/web-search/web-search.iml" filepath="$PROJECT_DIR$/mall_parent/web/web-search/web-search.iml" />
+    </modules>
+  </component>
+</project>

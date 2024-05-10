@@ -1,0 +1,13 @@
+#位置支付交换机和队列
+mq:
+  pay:
+    exchange:
+      order: exchange.order
+    queue:
+      order: queue.order
+      seckillorder: queue.seckillorder
+      seckillordertimer: queue.seckillordertimer
+      seckillordertimerdelay: queue.seckillordertimerdelay
+    routing:
+      orderkey: queue.order
+      seckillorderkey: queue.seckillorder
